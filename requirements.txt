@@ -19,3 +19,4 @@ os
 io
 sys
 gevent.monkey
+Pillow==8.4.0
